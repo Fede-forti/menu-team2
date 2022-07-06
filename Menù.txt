@@ -6,22 +6,22 @@ Antipasti:
 - Tartare di Fassona
 - Voul au vent con fonduta
 
-Primi Piatti
+Primi Piatti:
 - Risotto con zucca e salsiccia
 - Spaghetti alla carbonara
 - Tagliatelle paglia e fieno con salsiccia, funghi porcini e melanzane
 
-Secondi piatti
+Secondi piatti:
 - Filetto di cavallo
 - Involtini di vitello
 - Pollo arrosto 
 
-Dessert
+Dessert:
 - Tiramisù
 - Panna cotta
 - Profiteroles al cioccolato
 
-Bevande
+Bevande:
 - Acqua 
 - Coca Cola
 - Birra
