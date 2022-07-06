@@ -1,29 +1,31 @@
 "2-dev Restaurant" 
 ~ Il nostro menù di CARNE ~
+
 Antipasti:
 - Vitello in salsa tonnata
--Tartare di Fassona
--Voul au vent con fonduta
-
-
-Bevande
-- Acqua 
-- Coca Cola
-- Birra
+- Tartare di Fassona
+- Voul au vent con fonduta
 
 Primi Piatti
 - Risotto con zucca e salsiccia
 - Spaghetti alla carbonara
 - Tagliatelle paglia e fieno con salsiccia, funghi porcini e melanzane
 
-Buon appetito!
-
 Secondi piatti
--Filetto di cavallo
--Involtini di vitello
--Pollo arrosto
+- Filetto di cavallo
+- Involtini di vitello
+- Pollo arrosto 
 
 Dessert
 - Tiramisù
 - Panna cotta
 - Profiteroles al cioccolato
+
+Bevande
+- Acqua 
+- Coca Cola
+- Birra
+
+
+
+Buon appetito!
