@@ -7,4 +7,9 @@ Bevande
 - Coca Cola
 - Birra
 
+Primi Piatti
+- Risotto con zucca e salsiccia
+- Spaghetti alla carbonara
+- Tagliatelle paglia e fieno con salsiccia, funghi porcini e melanzane
+
 Buon appetito!
