@@ -1,5 +1,9 @@
 "2-dev Restaurant" 
 ~ Il nostro menù di CARNE ~
+Antipasti:
+- Vitello in salsa tonnata
+-Tartare di Fassona
+-Voul au vent con fonduta
 
 
 Bevande
